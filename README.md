@@ -11,3 +11,7 @@ Demo (Direct to Youtube)
 ### Application Instruction
 
 ### Source Explain
+
+## HCMUS students
+
+Spoiler alert: for HCMUS students, your teachers know this repo, so please mention this in your report, or...? yeah you guess it 
